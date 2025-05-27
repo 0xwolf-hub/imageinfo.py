@@ -1,4 +1,4 @@
 # imageinfo.py
 #how to use theis tool
-input your image your want scanner to folder input
-and go tools
+creat folder and wriet in her name 0x9 get file pictures.info.py and creat folder her name is input
+and get your image in folder input
